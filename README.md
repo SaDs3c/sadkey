@@ -8,5 +8,5 @@ Sadkey is a command line tool for generating RSA keys
 ### Install
 
 `
-go install github.com/sads3c/sadkey
+go install github.com/sads3c/sadkey@latest
 `
