@@ -1,11 +1,11 @@
-# SADKEY
+# Sadkey
 
 Sadkey is a command line tool for generating RSA keys
 
-# Prerequisites
+### Prerequisite
 - Golang
 
-# Install
+### Install
 
 `
 go install github.com/sads3c/sadkey
